@@ -14,8 +14,13 @@ A shinny app of movie gross income projection
  
  Y variable: Movie gross income in million.
  
+ conclusion: 
+ The gross income will increase with movie votes, movie score and movie year.
+ Not R movies will have higher gross than R movies.
+ 
  The model I choose is multiple linear regression.
  R-square for the model is over 0.6.
+ detailed summary can be viewed in images folder.
   
  Now you can try the app link and see how accurate compare to actual movie incomes from 
  https://www.imdb.com/search/title?release_date=2017-01-01,2017-12-31&sort=num_votes,desc&start=1&ref_=adv_nxt
